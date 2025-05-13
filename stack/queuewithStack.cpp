@@ -39,6 +39,8 @@ struct Queue{
     int size(){
         return input.size();
     }
+
+    
 };
 
 int main()
